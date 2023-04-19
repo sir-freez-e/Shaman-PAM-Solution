@@ -6,3 +6,10 @@ Microsoft Identity Manager Privileged Access Management or MIM PAM for short is 
 
 
 ![image](https://user-images.githubusercontent.com/535532/233064946-3e6ac683-617a-4dab-bade-2d1ba1b227fb.png)
+
+when the request form is click it launches a custom dialog box
+
+![image](https://user-images.githubusercontent.com/535532/233065564-14e7ef2d-eea6-457a-b408-744f8e12a825.png)
+
+
+
